@@ -11,5 +11,7 @@ Tracker
 
 ❌ L4   -----------  ✔ 1     ✔ 2      ❌ 3 ----CNN,CIFAR10 images using ResNet
 
+Part 3 needs Jovian API key
+
 ❌ L5   -----------  ❌ 1     ❌ 2      ❌ 3
 

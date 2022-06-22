@@ -3,7 +3,7 @@ https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans
 
 Tracker
 
--[] L1
+&#x2611 L1
   -[x] 1
   -[] 2
   -[] 3

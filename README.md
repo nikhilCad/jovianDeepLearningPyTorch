@@ -15,5 +15,5 @@ Part 3 giving wrong output
 
 Part 3 needs Jovian API key
 
-❌ L5   -----------  ❌ 1     ❌ 2      ❌ 3 ----Generative Adverserial Networks GAN
+❌ L5   -----------  ❌ 1     ❌ 2      ❌ 3 ----Generative Adverserial Networks GAN -generate or output new examples that plausibly could have been drawn from the original dataset- takes very long to train
 

@@ -3,7 +3,7 @@ https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans
 
 Tracker
 
-❌ L1   -----------  ✔ 1     ✔ 2      ❌ 3
+✔ L1   -----------  ✔ 1     ✔ 2      ✔ 3
 
 ❌ L2   -----------  ✔ 1     ❌ 2      ❌ 3
 

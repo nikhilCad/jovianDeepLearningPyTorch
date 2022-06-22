@@ -1,6 +1,10 @@
 # jovianDeepLearningPyTorch
 https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans
 
+
+LECTURE 3 and 4 mein kuch ghapla hai check karo
+
+
 Tracker
 
 ✔ L1   -----------  ✔ 1     ✔ 2      ✔ 3  ---- Intro

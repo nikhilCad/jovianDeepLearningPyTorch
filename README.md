@@ -15,5 +15,5 @@ Part 3 giving wrong output
 
 Part 3 needs Jovian API key
 
-❌ L5   -----------  ❌ 1     ❌ 2      ❌ 3
+❌ L5   -----------  ❌ 1     ❌ 2      ❌ 3 ----Generative Adverserial Networks GAN
 

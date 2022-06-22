@@ -9,7 +9,7 @@ Tracker
 
 ✔ L3   -----------  ✔ 1     ✔ 2      ✔ 3   ---- Using GPU
 
-❌ L4   -----------  ✔ 1     ❌ 2      ❌ 3 ----CNN
+❌ L4   -----------  ✔ 1     ❌ 2      ❌ 3 ----CNN,CIFAR10 images using ResNet
 
 ❌ L5   -----------  ❌ 1     ❌ 2      ❌ 3
 

@@ -7,6 +7,8 @@ Tracker
 
 ❌ L2   -----------  ✔ 1     ✔ 2      ❌ 3  ---- Simple datasets
 
+Part 3 giving wrong output
+
 ✔ L3   -----------  ✔ 1     ✔ 2      ✔ 3   ---- Using GPU
 
 ❌ L4   -----------  ✔ 1     ✔ 2      ❌ 3 ----CNN,CIFAR10 images using ResNet

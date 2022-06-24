@@ -15,7 +15,7 @@ Part 3 giving wrong output
 
 ✔ L3   -----------  ✔ 1     ✔ 2      ✔ 3   ---- Using GPU
 
-✔ L4   -----------  ✔ 1     ✔ 2 ----
+❌ L4   -----------  ❌ 1     ❌ 2 ----
 
 ❌ L5   -----------  ✔ 1     ✔ 2      ❌ 3 ----CNN,CIFAR10 images using ResNet
 

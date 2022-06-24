@@ -21,5 +21,5 @@ mnist-logical one gives wrong output for some reason giving wrong output
 
 Part 3 needs Jovian API key, so not doing
 
-❌ L6   -----------  ❌ 1     ❌ 2      ✔ 3 ----Generative Adverserial Networks GAN -generate or output new examples that plausibly could have been drawn from the original dataset- takes very long to train
+✔ L6   -----------  - 1     - 2      ✔ 3 ----Generative Adverserial Networks GAN -generate or output new examples that plausibly could have been drawn from the original dataset- 1 and 2 takes very long to train(1-1.5 hr) so skipping practical but did read
 

@@ -15,8 +15,7 @@ Part 3 giving wrong output
 
 ✔ L3   -----------  ✔ 1     ✔ 2      ✔ 3   ---- Using GPU
 
-❌ L4   -----------  ❌ 1     ✔ 2 ---- Classifying images of everyday objects using a neural network
-03 cifar not done
+✔ L4   -----------  ✔ 1     ✔ 2 ---- Classifying images of everyday objects using a neural network
 
 ❌ L5   -----------  ✔ 1     ✔ 2      ❌ 3 ----CNN,CIFAR10 images using ResNet
 
